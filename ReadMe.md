@@ -5,3 +5,4 @@
 * Get to the Point https://www.theengineeringmanager.com/growth/get-straight-to-the-point/
 * Estimation-anti-patterns https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301
 * tech interview handbook https://github.com/yangshun/tech-interview-handbook
+* DevOps Roadmap https://github.com/milanm/DevOps-Roadmap
