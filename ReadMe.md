@@ -6,6 +6,7 @@
 * Estimation-anti-patterns https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301
 * tech interview handbook https://github.com/yangshun/tech-interview-handbook
 * DevOps Roadmap https://github.com/milanm/DevOps-Roadmap
+* Bash commands https://github.com/trinib/Linux-Bash-Commands
 
 ##Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
