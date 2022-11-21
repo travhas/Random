@@ -1,4 +1,4 @@
-#Random stuff is stored here.
+# Random stuff is stored here.
 * Cheat Sheets https://github.com/ChristianLempa/cheat-sheets 
 * Developer effectiveness article https://abinoda.substack.com/p/maximizing-developer-effectiveness
 * CLI Learning https://github.com/jlevy/the-art-of-command-line
@@ -9,14 +9,14 @@
 * Bash commands https://github.com/trinib/Linux-Bash-Commands
 * The home of engineering leadership https://leaddev.com/ 
 
-##Productivity
+## Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
 * How I Remember Everything I Read https://www.youtube.com/watch?v=AjoxkxM_I5g
 ### Books
 * How to take smart notes https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502
 
-##Management Resources
-###Books
+## Management Resources
+### Books
 * THE MANAGEMENT PLAYBOOK https://www.amazon.com/MANAGEMENT-PLAYBOOK-Brandon-Allen/dp/1500190977
 * The Culture Code: The Secrets of Highly Successful Groups https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1641108660&sr=1-1
 * Turn the Ship Around!: A True Story of Turning Followers https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1641108890&sr=8-1
