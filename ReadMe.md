@@ -12,6 +12,8 @@
 ##Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
 * How I Remember Everything I Read https://www.youtube.com/watch?v=AjoxkxM_I5g
+### Books
+* How to take smart notes https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502
 
 ##Management Resources
 ###Books
