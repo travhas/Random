@@ -16,6 +16,7 @@
 * How to take smart notes https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502
 
 ## Management Resources
+* Awesome CTO https://github.com/kuchin/awesome-cto
 ### Books
 * THE MANAGEMENT PLAYBOOK https://www.amazon.com/MANAGEMENT-PLAYBOOK-Brandon-Allen/dp/1500190977
 * The Culture Code: The Secrets of Highly Successful Groups https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1641108660&sr=1-1
