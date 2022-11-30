@@ -10,6 +10,7 @@
 * The home of engineering leadership https://leaddev.com/ 
 * awesome-scalability https://github.com/binhnguyennus/awesome-scalability
 * Mike Acton’s Expectations of Professional Software Engineers https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/
+* A Career Cold Start Algorithm https://boz.com/articles/career-cold-start
 
 ## Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
