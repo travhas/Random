@@ -9,10 +9,12 @@
 * Bash commands https://github.com/trinib/Linux-Bash-Commands
 * The home of engineering leadership https://leaddev.com/ 
 * awesome-scalability https://github.com/binhnguyennus/awesome-scalability
+* Mike Acton’s Expectations of Professional Software Engineers https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/
 
 ## Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
 * How I Remember Everything I Read https://www.youtube.com/watch?v=AjoxkxM_I5g
+* How To Be Amazing In Any Team As A Software Engineer https://www.youtube.com/watch?v=qHotBUoZ7vQ
 ### Books
 * How to take smart notes https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502
 
