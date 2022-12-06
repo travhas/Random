@@ -11,6 +11,7 @@
 * awesome-scalability https://github.com/binhnguyennus/awesome-scalability
 * Mike Acton’s Expectations of Professional Software Engineers https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/
 * A Career Cold Start Algorithm https://boz.com/articles/career-cold-start
+* 35 Misconceptions about date and time https://www.meziantou.net/misconceptions-about-date-and-time.htm
 
 ## Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
@@ -29,6 +30,7 @@
 * What Got You Here Won't Get You There: How Successful People Become Even More Successful https://www.amazon.com/What-Got-Here-Wont-There/dp/B00F6HD838/ref=sr_1_2?crid=3EE5X115IGZBI&keywords=what+got+you+here%2C+won%27t+get+you+there&qid=1641108951&sprefix=What+Got+You+Here%2C+Won%27t+Get+You+There%2Caps%2C169&sr=8-2
 * An Elegant Puzzle: Systems of Engineering Management https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 * engineering managment list of resources https://github.com/charlax/engineering-management
+* Debugging Teams: Groundhog Day https://skamille.medium.com/debugging-teams-groundhog-day-f0483fea82d9
 
 ## Writing
 * A founders guide to writing well https://review.firstround.com/a-founders-guide-to-writing-well
