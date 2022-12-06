@@ -12,6 +12,7 @@
 * Mike Acton’s Expectations of Professional Software Engineers https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/
 * A Career Cold Start Algorithm https://boz.com/articles/career-cold-start
 * 35 Misconceptions about date and time https://www.meziantou.net/misconceptions-about-date-and-time.htm
+* Tech interview handbook https://github.com/yangshun/tech-interview-handbook
 
 ## Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
