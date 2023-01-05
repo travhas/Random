@@ -35,3 +35,7 @@
 
 ## Writing
 * A founders guide to writing well https://review.firstround.com/a-founders-guide-to-writing-well
+
+## look into later
+* https://eisabai.gumroad.com/l/techcareerplanner
+* https://eisabai.gumroad.com/l/emhowto
