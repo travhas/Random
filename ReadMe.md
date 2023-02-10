@@ -33,6 +33,9 @@
 * engineering managment list of resources https://github.com/charlax/engineering-management
 * Debugging Teams: Groundhog Day https://skamille.medium.com/debugging-teams-groundhog-day-f0483fea82d9
 
+## SCRUM team managment info
+* daily standups https://www.dailybot.com/blog-post/daily-standups-the-complete-guide-to-productive-meetings?utm_source=newsletter&utm_medium=email&utm_campaign=pointer
+
 ## Writing
 * A founders guide to writing well https://review.firstround.com/a-founders-guide-to-writing-well
 
