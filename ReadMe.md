@@ -32,6 +32,7 @@
 * An Elegant Puzzle: Systems of Engineering Management https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 * engineering managment list of resources https://github.com/charlax/engineering-management
 * Debugging Teams: Groundhog Day https://skamille.medium.com/debugging-teams-groundhog-day-f0483fea82d9
+* Project Management For Software Engineers https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/
 
 ## SCRUM team managment info
 * daily standups https://www.dailybot.com/blog-post/daily-standups-the-complete-guide-to-productive-meetings?utm_source=newsletter&utm_medium=email&utm_campaign=pointer
