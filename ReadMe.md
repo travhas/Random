@@ -13,6 +13,7 @@
 * A Career Cold Start Algorithm https://boz.com/articles/career-cold-start
 * 35 Misconceptions about date and time https://www.meziantou.net/misconceptions-about-date-and-time.htm
 * Tech interview handbook https://github.com/yangshun/tech-interview-handbook
+* CLI tricks every developer should know https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/
 
 ## Productivity
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
