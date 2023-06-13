@@ -24,6 +24,7 @@
 
 ## Management Resources
 * Awesome CTO https://github.com/kuchin/awesome-cto
+* To Build a Top Performing Team, Ask for 85% Effort https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort
 ### Books
 * THE MANAGEMENT PLAYBOOK https://www.amazon.com/MANAGEMENT-PLAYBOOK-Brandon-Allen/dp/1500190977
 * The Culture Code: The Secrets of Highly Successful Groups https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1641108660&sr=1-1
