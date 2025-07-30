@@ -20,6 +20,7 @@
 * Cal Newport block planning https://www.timeblockplanner.com/#timemethod
 * How I Remember Everything I Read https://www.youtube.com/watch?v=AjoxkxM_I5g
 * How To Be Amazing In Any Team As A Software Engineer https://www.youtube.com/watch?v=qHotBUoZ7vQ
+* 10 ways to Take Ownership of Your Time https://mikefisher.substack.com/p/time-management?aid=rec7j7n07kpALnRzM&_bhlid=7f9051e6029a62c0057a6ed042d66362702aeec3
 ### Books
 * How to take smart notes https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502
 
@@ -44,6 +45,9 @@
 
 ## Writing
 * A founders guide to writing well https://review.firstround.com/a-founders-guide-to-writing-well
+
+## AI
+* AI Agents for Beginners - A Course https://github.com/microsoft/ai-agents-for-beginners?&aid=recNd2mopuW0WeWlT&_bhlid=75f9c38f598afae65decbfe3f99b4dd543d3589a
 
 ## look into later
 * https://eisabai.gumroad.com/l/techcareerplanner
